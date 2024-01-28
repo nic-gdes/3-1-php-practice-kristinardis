@@ -1,8 +1,5 @@
 <head>
     <title>My favorite things</title>
-    <style link="assets/css/style.css"></style>
+    <link rel="stylesheet" href="assets/css/style.css">
+    </link>
 </head>
-
-
-
-
